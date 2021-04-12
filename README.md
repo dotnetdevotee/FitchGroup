@@ -5,7 +5,7 @@ participation in the Innovation Week Hackathon.
 
 Participants:
 
-* Neelima Divi
+* Neelima Divi (@ividamileen)
 * Eileen Fahey
 * Derek Ferguson (@dotnetdevotee)
 * Rishabh Gupta
