@@ -11,3 +11,4 @@ Participants:
 * Rishabh Gupta
 * Aleks Hagy
 * Prem Prakash
+* Rashid Mohammad
