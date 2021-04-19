@@ -1,0 +1,9 @@
+.printAndShareOnly {
+    display : none;
+ }
+ 
+ @media print {
+     .printAndShareOnly {
+        display : block;
+     }
+ }

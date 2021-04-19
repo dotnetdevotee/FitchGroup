@@ -1,0 +1,26 @@
+{
+    "name": "Print & Share",
+    "description": "Sharing is caring! Print & Share who don't have access to digital world",
+    "version": "1.0",
+    "manifest_version": 3,
+    "permissions": [
+        "storage",
+        "activeTab",
+        "scripting"
+    ],
+    "content_scripts": [
+        {
+            "matches": [
+                "https://*/*",
+                "http://*/*"
+            ],
+            "all_frames": true,
+            "css": [
+                "myStyles.css"
+            ],
+            "js": [
+                "contentScript.js"
+            ]
+        }
+    ]
+}
